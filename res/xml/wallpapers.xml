@@ -15,6 +15,65 @@
     limitations under the License.
 -->
 <wallpapers>
+    
+    <category id="default" title="@string/category_default" featured="default_wallpaper">
+    
+    <static-wallpaper
+            id="default_wallpaper"
+            src="@drawable/default_wallpaper"
+            title="@string/wallpaper_default_wallpaper"
+            subtitle1="@string/author_lead" />
+
+    </category>
+
+	<category id="flare" title="@string/category_flare" featured="flare_a">
+
+	<static-wallpaper
+            id="Burst"
+            src="@drawable/Burst"
+            title="@string/wallpaper_flare_a" />
+
+	<static-wallpaper
+            id="Dusk"
+            src="@drawable/Dusk"
+            title="@string/wallpaper_flare_b" />
+
+	<static-wallpaper
+            id="FlareBlue"
+            src="@drawable/FlareBlue"
+            title="@string/wallpaper_flare_c" />
+
+	<static-wallpaper
+            id="FlareMint"
+            src="@drawable/FlareMint"
+            title="@string/wallpaper_flare_d" />
+
+	<static-wallpaper
+            id="FlarePurple"
+            src="@drawable/FlarePurple"
+            title="@string/wallpaper_flare_e" />
+
+	<static-wallpaper
+            id="FlareRed"
+            src="@drawable/FlareRed"
+            title="@string/wallpaper_flare_f" />
+
+	<static-wallpaper
+            id="Flash"
+            src="@drawable/Flash"
+            title="@string/wallpaper_flare_g" />
+
+	<static-wallpaper
+            id="Helix"
+            src="@drawable/Helix"
+            title="@string/wallpaper_flare_h" />
+
+	<static-wallpaper
+            id="Peak"
+            src="@drawable/Peak"
+            title="@string/wallpaper_flare_i" />
+            
+	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 

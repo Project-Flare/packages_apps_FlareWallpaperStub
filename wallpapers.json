@@ -1,4 +1,47 @@
 {
+    "Default": {
+		"author": "ADITYA",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
+
+	"Project Flare": {
+		"featured": "Flash",
+		"wallpapers": {
+			"Burst": {
+				"1": ""
+			},
+			"Dusk": {
+				"1": ""
+			},
+			"Flare Blue": {
+				"1": ""
+			},
+			"Flare Mint": {
+				"1": ""
+			},
+			"Flare Purple": {
+                                "1": ""
+                        },
+			"Flare Red": {
+                                "1": ""
+                        },
+			"Flash": {
+                                "1": ""
+                        },
+			"Helix": {
+                                "1": ""
+                        },
+			"Peak": {
+                                "1": ""
+                        }
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",

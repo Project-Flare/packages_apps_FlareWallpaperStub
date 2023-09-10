@@ -15,6 +15,19 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_default">Default Wallpaper</string>
+    <string name="author_lead">by ADITYA</string>
+    <string name="wallpaper_default_wallpaper">Default Wallpaper</string>
+    <string name="category_flare">Project Flare</string>
+    <string name="wallpaper_flare_a">Burst</string>
+    <string name="wallpaper_flare_b">Dusk</string>
+    <string name="wallpaper_flare_c">Flare Blue</string>
+    <string name="wallpaper_flare_d">Flare Mint</string>
+    <string name="wallpaper_flare_e">Flare Purple</string>
+    <string name="wallpaper_flare_f">Flare Red</string>
+    <string name="wallpaper_flare_g">Flash</string>
+    <string name="wallpaper_flare_h">Helix</string>
+    <string name="wallpaper_flare_i">Peak</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
